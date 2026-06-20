@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 # ==========================================
 # КОНФІГУРАЦІЯ
 # ==========================================
-TOKEN = "ТУТ_ВСТАВ_ТОКЕН"
+TOKEN = "8728714332:AAHOdJoRXLvGuLWBk4nTkwzQXuUkIoxFl_Y"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
